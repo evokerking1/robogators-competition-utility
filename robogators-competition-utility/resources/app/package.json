@@ -1,0 +1,5 @@
+{
+    "name": "robogators-competition-utility",
+    "main": "electron-main.js",
+    "version": "2.0.0"
+}
